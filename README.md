@@ -1,1 +1,1 @@
-# hrituja.github.io
+# stockprediction.github.io
