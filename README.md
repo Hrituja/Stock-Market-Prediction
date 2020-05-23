@@ -1,3 +1,4 @@
+## Stock Prices Prediction from financial news articles using LSTM and XAI
 
 Stock market investment can be a very tricky and tedious job, stock market prediction has been an object of studies for the past many decades and is a very difficult task because of its complexity, disordered information and dynamism. An aspired investor always wishes to make a conscious decision about buying or selling or holding stocks of a specific company to aim maximum profits. There are several technical indicators and sources of information which affect the stock prices, but due to the substantial amount of data present, it becomes difficult to predict the prices. However, with the advancement in technology, the opportunity to procure profit from the stock market is increased, which also helps experts to find out the most informative indicators to make a better prediction.
 
